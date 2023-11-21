@@ -189,7 +189,7 @@ a{
 
 #intro
 {
-    height: 60vh;
+    height: 55vh;
     background-image: url('try2.JPG');
     background-size: cover;
     background-repeat: no-repeat;
@@ -326,7 +326,7 @@ a{
 
 #im
 {
-    height: 18vh;
+    height: 15vh;
     background:linear-gradient(90deg,rgb(199, 77, 255),rgb(98, 2, 143),rgb(197, 79, 243));
     text-align: center;
     display: flex;
