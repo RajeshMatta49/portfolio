@@ -14,7 +14,7 @@ window.onscroll = function change()
 
 };
 
-
+alert("hi balaji");
 
 
 var menud = document.getElementById("detai");
